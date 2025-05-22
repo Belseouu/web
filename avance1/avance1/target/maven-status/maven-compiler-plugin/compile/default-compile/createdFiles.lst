@@ -1,0 +1,6 @@
+com\mycompany\avance1\resources\JakartaEE10Resource.class
+controlador\ListServlet.class
+com\mycompany\avance1\JakartaRestConfiguration.class
+modelo\usuario.class
+DAO\NewClass.class
+controlador\AltaServlet.class
